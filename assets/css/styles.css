@@ -125,6 +125,7 @@ p {
   font-weight: 500;
   margin-bottom: 0px;
   margin-top: 0;
+  line-height: 1.5;
 }
 .sidebar-wrapper .education-container .time {
   color: rgba(255, 255, 255, 0.6);
@@ -235,6 +236,8 @@ p {
   font-size: 14px;
   margin-top: 0;
   margin-bottom: 12px;
+  line-height: 1.5;
+  padding-right: 5px;
 }
 .skillset .level-bar {
   height: 12px;

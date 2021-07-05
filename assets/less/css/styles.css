@@ -231,6 +231,10 @@ p {
   margin-bottom: 15px;
   overflow: hidden;
 }
+.level-title {
+  line-height: 1.5;
+  padding-right: 5px;
+}
 .skillset .level-title {
   font-size: 14px;
   margin-top: 0;
